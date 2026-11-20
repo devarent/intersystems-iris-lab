@@ -1,4 +1,38 @@
 
+<!-- identity-block -->
+<div align="center">
+
+# intersystems-iris-lab
+
+<sub>Run InterSystems IRIS Community Edition in Docker, connect over JDBC or the Management Portal, and practice SQL.</sub>
+
+</div>
+
+## At a glance
+
+| Field | Detail |
+| --- | --- |
+| Repository | intersystems-iris-lab |
+| Primary language | Mixed / documentation |
+| Topics | database, database-labs, devarent, docker, intersystems-iris, jdbc, lab, sql |
+| License | MIT |
+| Branch | main |
+| Maintainer | [@devarent](https://github.com/devarent) |
+
+## Overview
+
+intersystems-iris-lab is a hands-on repository focused on: Run InterSystems IRIS Community Edition in Docker, connect over JDBC or the Management Portal, and practice SQL.. Primary language: Mixed / documentation. Topics: database, database-labs, devarent, docker, intersystems-iris, jdbc, lab, sql. The README below documents the project; use the table above for a quick overview.
+
+### Global references
+
+<div align="center">
+
+🇮🇸 Iceland &middot; 🇳🇿 New Zealand &middot; 🇨🇭 Switzerland &middot; 🇸🇮 Slovenia &middot; 🇮🇪 Ireland &middot; 🇦🇹 Austria &middot; 🇵🇹 Portugal &middot; 🇸🇬 Singapore &middot; 🇫🇮 Finland
+
+</div>
+
+---
+
 <!-- dbx-style-kit -->
 <div align="center">
 
